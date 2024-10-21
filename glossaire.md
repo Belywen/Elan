@@ -14,15 +14,30 @@
 
 ## Général
 1.	Quel est l’environnement à installer pour exécuter un script PHP ? Citer 2 exemples de logiciels permettant ce contexte
+    VS code et Laragon / MAMP
+
 2.	Qu’est-ce qu’un algorithme ?  
+    C'est une suite d'instructions organisées (séquentiel (exécution d'instructions) et procédurale (exécution de fonctions))
+
 3.	Qu’est-ce qu’une variable ? Par quel symbole est préfixée une variable en PHP ?
+    Emplacement mémoire permettant de stocker une valeur symbolisé par le dollar $.
+
 4.	Qu’est-ce que la portée d’une variable ?
 5.	Qu’est-ce qu’une constante ? Quelle est la différence avec une variable ?
 6.	Qu’est-ce qu’une superglobale, combien en existent-ils et donner un exemple d’utilisation 
 7.	Quels sont les différents types (primitifs) que l’on peut associer à une variable en PHP ? Les citer et en donner des exemples (ne pas oublier le type d’une variable sans valeur)
+    - string/str : chaine de caractères  = "bonjour";
+    - entier/int : nombre = 50;
+    - flottant/float : nombre décimal = 50.2;
+    - boolean/bool : vrai / faux = true;
+    - tableau/array : tableau = [1, "nom];
+    - null !
+
 8.	Existe-t-il plusieurs types de tableaux en PHP, si oui lesquels ?
 9.	Quelles sont les différentes structures de contrôles qu’il existe en algorithmie ? Donner un exemple pour chacune d’entre elles
 10.	Quelle est la fonction PHP permettant de demander la longueur d’une chaîne de caractères ?
+    strlen("Bonjour tout le monde");
+
 11.	Qu’est-ce qu’une session ? Quelle fonction permet de démarrer une session en PHP ? Donner un exemple d’utilisation en PHP
 12.	Qu’est-ce qu’un cookie ? Donner un exemple d’utilisation en PHP
 13.	Quelle est la différence entre les instructions « require » et « include » en PHP
