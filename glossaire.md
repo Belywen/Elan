@@ -24,6 +24,8 @@
 
 4.	Qu’est-ce que la portée d’une variable ?
 5.	Qu’est-ce qu’une constante ? Quelle est la différence avec une variable ?
+    Une constante a une valeur qui n'a pas vocation a changé contrairement à la variable qui varie.
+
 6.	Qu’est-ce qu’une superglobale, combien en existent-ils et donner un exemple d’utilisation 
 7.	Quels sont les différents types (primitifs) que l’on peut associer à une variable en PHP ? Les citer et en donner des exemples (ne pas oublier le type d’une variable sans valeur)
     - string/str : chaine de caractères  = "bonjour";
