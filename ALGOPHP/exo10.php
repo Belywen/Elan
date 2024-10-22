@@ -9,24 +9,7 @@ $billet5 = 0;
 $piece2 = 0;
 $piece1 = 0;
 
-while ($RaPayer =! 0) {
-    if ($RaPayer / 10) {
-        $billet10++;
-        $RaPayer - 10;
-    }
-    if ($RaPayer / 5) {
-        $billet5++;
-        $RaPayer - 5;
-    }
-    if ($RaPayer / 2) {
-        $piece2++;
-        $RaPayer - 2;
-    }
-    if ($RaPayer / 1) {
-        $piece1++;
-        $RaPayer - 1;
-    }
-}
+
 
 echo "Affichage : ";
 echo "</br></br>";
