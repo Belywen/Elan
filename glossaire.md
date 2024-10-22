@@ -31,6 +31,7 @@
     - flottant/float : nombre décimal = 50.2;
     - boolean/bool : vrai / faux = true;
     - tableau/array : tableau = [1, "nom];
+    - date : 
     - null !
 
 8.	Existe-t-il plusieurs types de tableaux en PHP, si oui lesquels ?
@@ -45,6 +46,8 @@
 15.	Définir la partie « front-end » et « back-end » d’une application
 16.	Définir le contrôle de version ? Qu’est-ce que Git ?
 17.	Qu’est-ce qu’un CMS ? Citer au moins 2 exemples
+    *Content Management System : Permet de concevoir et de gérer des sites web.
+    Wordpress / Shopify
 
 ## Front-end
 18.	Définir HTML
@@ -98,6 +101,8 @@
 60.	Qu’est-ce que l’architecture client / serveur ? Grâce à quel type de requête peut-on interroger le serveur. Définir l’acronyme de ce type de requête. Si on ajoute un « S » à cet acronyme, expliquer la différence
 61.	Donner la définition d’un design pattern. Citer au moins 3 exemples de design pattern
 62.	Qu’est-ce que l’architecture MVC ?
+    *Permet de séparer la logique d'une application en 3blocs
+
 63.	Quel est le rôle de chaque couche du design pattern MVC : Model, View, Controller ?
 64.	Quels sont les avantages de l’architecture MVC ?
 65.	Existe-t-il des variantes à l’architecture MVC ?
